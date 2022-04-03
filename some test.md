@@ -1,3 +1,5 @@
 # some test
 
-this is a test for<img src="C:\Users\zyu\Desktop\afef1d997fb3d5c7b0dfce08ab0a369.png" alt="afef1d997fb3d5c7b0dfce08ab0a369" style="zoom: 80%;" /> github
+this is a test for github
+
+![9e7a1d861e6f4e0c3305f2d77808a86](../Typoraphoto/9e7a1d861e6f4e0c3305f2d77808a86.png)
